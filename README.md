@@ -1,4 +1,4 @@
-![GIF Description](https://github.com/Zuhair-CS/Zuhair-CS/blob/main/dev.gif)
+<img src="https://github.com/Zuhair-CS/Zuhair-CS/raw/main/dev.gif" alt="GIF Description" width="100%">
 
 <h1 align="center">Hi 👋, I'm Zuhair Ahmad</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
